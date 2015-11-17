@@ -1,0 +1,27 @@
+{
+  "name": "karma-msx-preprocessor",
+  "version": "0.0.1",
+  "description": "Compile JSX into Mithril render-compatible elements on the fly",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orbitbot/karma-msx-preprocessor.git"
+  },
+  "keywords": [
+    "msx",
+    "mithril",
+    "mithriljs",
+    "karma-plugin",
+    "karma-preprocessor"
+  ],
+  "author": "Patrik Johnson <patrik@zebros.fi>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orbitbot/karma-msx-preprocessor/issues"
+  },
+  "homepage": "https://github.com/orbitbot/karma-msx-preprocessor#readme",
+  "dependencies": {
+    "msx": "^0.4.1"
+  }
+}
