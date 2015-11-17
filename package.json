@@ -1,6 +1,6 @@
 {
   "name": "karma-msx-preprocessor",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Compile JSX into Mithril render-compatible elements on the fly",
   "main": "index.js",
   "scripts": {},
